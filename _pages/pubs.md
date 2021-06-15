@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Publications"
+layout: single
+permalink: /pubs/
 author_profile: false
 ---
 
