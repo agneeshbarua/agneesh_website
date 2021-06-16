@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Bio"
 header:
-  overlay_image: /assets/images/about_banner.jpg
+  overlay_image: /assets/images/about_banner.jpeg
 ---
 
 I am a graduate student at the Okinawa Institute of Science and Technology Graduate University (OIST). The main focus of my PhD is evolutionary genetics of complex traits. I use quantitative genetics, phylogenetic comparative methods, genomics, transcriptomics, and network approaches to understand the genetic basis of complex trait evolution.  
