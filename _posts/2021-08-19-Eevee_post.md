@@ -1,5 +1,5 @@
 ---
-title: "Serine protease preprint up"
+title: "Teaching evolution with Pokemon"
 date: 2021-08-19T15:34:30-04:00
 categories:
   - blog
