@@ -8,9 +8,9 @@ header:
   overlay_filter: rgba(114, 116, 140, 0.77)
 ---
 
-* The parallel origins of vertebrate venoms.  
+* Co-Option of the Same Ancestral Gene Family Gave Rise to Mammalian and Reptilian Toxins.  
 **A Barua**, I Koludarov, AS Mikheyev  
-*bioRxiv (2021).*[link][biorxiv]
+*BMC Biology (2021).*[link][bmc]
 
 * An ancient, conserved gene regulatory network led to the rise of oral venom systems.  
 **A Barua** (CA), AS Mikheyev  
@@ -32,7 +32,7 @@ SD Aird, J Arora, A Barua, L Qiu, K Terada, AS Mikheyev
 H Kaur, RR Goyal, A Bhattacharya, R Gupta, NK Lal, B Arora, A Barua, ...  
 *DU Journal of Undergraduate Research and Innovation, 2015*.[link][du]
 
-[biorxiv]: https://www.biorxiv.org/content/10.1101/2021.04.26.441528v1
+[bmc]: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01191-1
 [pnas]: hhttps://www.pnas.org/content/118/14/e2021311118/tab-article-info
 [procb]: https://doi.org/10.1098/rspb.2020.0613 
 [mbe]: https://doi.org/10.1093/molbev/msz125
