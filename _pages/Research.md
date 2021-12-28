@@ -14,7 +14,7 @@ Understanding the molecular and genetic mechanisms that contribute to trait evol
 
 ## Repeated evolution using the same building blocks
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/sp_fig.png){:width="400px"}{: .align-left}
-Evolution can occur with surprising predictability when faced with similar ecological challenges. How and why this repeatability occurs remains a central question in evolutionary biology, but the complexity of most traits makes it challenging to answer. For example, venoms of mammals and reptiles are believed to have independently evolved serine protease (SP) based toxins. But so far, the genetic path to this recruitment hasn’t been explored. Using comparative genomics and phylogenetics, we showed that SP-based toxins are homologous and originated from the same [ancestral gene][sp]. Our results illustrate how a conserved genetic framework can still be a source of phenotypic novelty.  
+Evolution can occur with surprising predictability when faced with similar ecological challenges. How and why this repeatability occurs remains a central question in evolutionary biology, but the complexity of most traits makes it challenging to answer. Venoms of mammals and reptiles are believed to have independently evolved serine protease (SP) based toxins. But so far, the genetic path to this recruitment hasn’t been explored. Using comparative genomics and phylogenetics, we showed that SP-based toxins are homologous and originated from the same [ancestral gene][sp]. Our results illustrate how a conserved genetic framework can still be a source of phenotypic novelty.  
 
 ---
 ## A robust system for homeostasis can enable further molecular diversification 
@@ -32,7 +32,7 @@ Many genes perform many different functions. This pleiotropic nature of genes ca
 What drives species evolution is a topic of hot debate. There is no one answer, and therefore not one feature, of the animal or the environment that drives speciation. So imagine my surprise when I realised that snake venom is often attributed as the cause for the diversification of venomous snakes. Snake venom is a key innovation, but its role in speciation was never tested, not even remotely. Although difficult to do and requiring a large amount of data, we nonetheless performed a few analysis in our [‘Toxin rates’][procb] paper. We describe how venom in snakes evolves by transitions in evolutionary rates (like how key innovations behave), but they don’t coincide with points of species diversification (which traits involved in speciation are expected to). Furthermore, early burst models, which are supposed to be a feature of traits driving diversification, are poorly supported.  
 More data and a more elegant analytical approach is necessary to understand either the direct or indirect role venom plays is species evolution. But I thoroughly enjoyed writing this paper and studying the literature.
 
-[sp]: https://www.biorxiv.org/content/10.1101/2021.04.26.441528v1
+[sp]: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01191-1
 [pnas]: https://www.pnas.org/content/118/14/e2021311118/tab-article-info
 [mbe]: https://doi.org/10.1093/molbev/msz125
 [procb]: https://doi.org/10.1098/rspb.2020.0613 
