@@ -5,7 +5,6 @@ permalink: /pubs/
 author_profile: true
 header:
   overlay_image: /assets/images/pubs_banner.jpg
-  overlay_filter: rgba(114, 116, 140, 0.77)
 ---
 
 * Co-Option of the Same Ancestral Gene Family Gave Rise to Mammalian and Reptilian Toxins.  
