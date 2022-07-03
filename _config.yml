@@ -51,7 +51,7 @@ plugins:
 author:
   name   : "Agneesh Barua"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Final year graduate student at the Okinawa Institute of Science and Technology Graudate University"
+  bio    : "PhD Evolutionary Genetics"
   links:
     - label: "Email"
       icon: "far fa-envelope"
