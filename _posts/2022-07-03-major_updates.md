@@ -13,7 +13,7 @@ First, I finally defended my PhD, and as of writing this post. I am now Dr Barua
 This was an incredible journey, and I couldn’t have done it without the support of many people.
 
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/ag_phd.jpeg){: .align-right}
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/ag_phd.jpeg){:width="300px"}{: .align-right}
 
 
 Another major event was winning the Graduate Student Excellence Award from the Society for Molecular Biology and Evolution (SMBE). SMBE is the largest international society for evolutionary biology and the primary one in my field. In 2018 I attended their conference in Yokohama and was so inspired by the graduate student symposium.  I made it a goal to one day speak there. I am delighted to have achieved this! I will talk at SMBE everywhere this year with other outstanding finalists.
