@@ -51,8 +51,7 @@ plugins:
 author:
   name   : "Agneesh Barua"
   avatar : "/assets/images/profile.jpg"
-  bio    : "PhD Evolutionary Genetics  
-  HFSP Long-Term Postdoctoral Fellow"
+  bio    : "HFSP Long-Term Postdoctoral Fellow"
   links:
     - label: "Email"
       icon: "far fa-envelope"
