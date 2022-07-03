@@ -1,5 +1,5 @@
 ---
-title: "Official Dr Barua and other updates"
+title: "Officially Dr Barua and other updates"
 date: 2022-07-01T15:34:30-04:00
 categories:
   - blog
