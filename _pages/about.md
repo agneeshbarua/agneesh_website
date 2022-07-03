@@ -5,7 +5,9 @@ header:
   overlay_image: /assets/images/about_banner.jpeg
 ---
 
-I am a graduate student at the Okinawa Institute of Science and Technology Graduate University (OIST). The main focus of my PhD is evolutionary genetics of complex traits. I use quantitative genetics, phylogenetic comparative methods, genomics, transcriptomics, and network approaches to understand the genetic basis of complex trait evolution.  
+Starting November 2022, I will be an HFSP Long-Term postdoctoral fellow at the University of Lausanne.
+
+I received my PhD in evolutionary genetics from the Okinawa Institute of Science and Technology Graduate University (OIST). The main focus of my PhD was evolutionary genetics of complex traits. I used quantitative genetics, phylogenetic comparative methods, genomics, transcriptomics, and network approaches to understand the genetic basis of complex trait evolution.  
 
 My full academic CV can be found [here][cv].
 
