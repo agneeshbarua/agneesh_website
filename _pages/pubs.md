@@ -9,7 +9,7 @@ header:
 
 * The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae  
 **A Barua** (CA), R Kashimoto, K Khalturin, N Satoh, V Laudet
-*biorXiv (2023).*[link][anemone]
+*bioRxiv (2023).*[link][anemone]
 
 * Co-Option of the Same Ancestral Gene Family Gave Rise to Mammalian and Reptilian Toxins.  
 **A Barua**, I Koludarov, AS Mikheyev  
@@ -36,7 +36,7 @@ H Kaur, RR Goyal, A Bhattacharya, R Gupta, NK Lal, B Arora, A Barua, ...
 *DU Journal of Undergraduate Research and Innovation, 2015*.[link][du]
 
 
-[anemone]: https://doi.org/10.1101/2022.09.25.50943
+[anemone]: https://www.biorxiv.org/content/10.1101/2022.09.25.509434v1.abstract
 [bmc]: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01191-1
 [pnas]: hhttps://www.pnas.org/content/118/14/e2021311118/tab-article-info
 [procb]: https://doi.org/10.1098/rspb.2020.0613 
