@@ -9,9 +9,8 @@ tags:
 ---
 Truly honoured to give the graduate student speech at my graduation ceremony. Humbled to also receive the Peter Gruss Dissertation Excellence Award.  
   
-Prof Peter Gruss was a former president of OIST and the Max Plank Society in Germany. He was also one of the first people to characterise the Pax gene family, a group of master regulators involved in organ formation. O
-
-
+The Peter Gruss Dissertation Award is given to students with excellent theses based on their scientific, academic, and public impact. The award is named after Prof Peter Gruss, the former president of OIST and the Max Plank Society in Germany. He was also one of the first people to characterise the Pax gene family, a group of master regulators involved in organ formation.  
+The award includes a cash prize donated by Prof Gruss.
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/pg.jpeg)
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/speech.jpeg)
 
