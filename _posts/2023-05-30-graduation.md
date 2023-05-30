@@ -12,7 +12,7 @@ Truly honoured to give the graduate student speech at my graduation ceremony. Hu
 Prof Peter Gruss was a former president of OIST and the Max Plank Society in Germany. He was also one of the first people to characterise the Pax gene family, a group of master regulators involved in organ formation. O
 
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/pg.jpeg){:width="300px"}{: .align-left}
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/speech.jpeg){:width="300px"}{: .align-right}
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/pg.jpeg)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/speech.jpeg)
 
 
