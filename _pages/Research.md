@@ -9,7 +9,10 @@ header:
 
 Key words: Complex traits, Evolutionary genetics, Transcriptomics, Genomics, venom evolution.  
 
-My main interests are evolution of complex triats and understanding how genes encode for phenotypic characters.  
+Current Research:  
+I am currently working with teleost fish systems, taking full advantage of their remarkable diversity and well-documented genetic resources to explore the functional genomics of various tissue systems. My objective is to identify genes and biological processes that have never before been associated with the functioning of distinct tissue systems. The discovery of these candidate genes could resolve the intricate functionality of various tissues and pave the way for them to become potential targets for gene therapy.  
+  
+Previous Research:  
 Understanding the molecular and genetic mechanisms that contribute to trait evolution is at the heart of evolutionary biology. However, the complex nature of most traits makes this difficult to answer. Here, the snake venom system offers particular advantages. Venom is composed of a proteinaceous cocktail, where each venom component can be traced to an individual gene, thereby providing an unprecedented level of genetic tractability. Using this solid genotype-phenotype relationship, I uncover ways evolution shapes and gives rise to complex traits.
 
 ## Repeated evolution using the same building blocks
