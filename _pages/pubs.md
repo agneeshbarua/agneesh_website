@@ -7,7 +7,11 @@ header:
   overlay_image: /assets/images/pubs_banner.jpg
 ---
 
-* The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae  
+* Estimates of molecular convergence reveal multiple genes with adaptive variation across teleost fish.  
+**A Barua**, M Srivastava, B Beinsteiner, V Laudet, M Robinson-Rechavi
+*Molecular Biology and Evolution, Volume 43, Issue 1, January 2026, msag015,).*[link][conv]
+
+* The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae.  
 **A Barua** (CA), R Kashimoto, K Khalturin, N Satoh, V Laudet
 *bioRxiv (2023).*[link][anemone]
 
@@ -36,6 +40,7 @@ H Kaur, RR Goyal, A Bhattacharya, R Gupta, NK Lal, B Arora, A Barua, ...
 *DU Journal of Undergraduate Research and Innovation, 2015*.[link][du]
 
 
+[conv]: https://doi.org/10.1093/molbev/msag015
 [anemone]: https://www.biorxiv.org/content/10.1101/2022.09.25.509434v1.abstract
 [bmc]: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01191-1
 [pnas]: hhttps://www.pnas.org/content/118/14/e2021311118/tab-article-info
