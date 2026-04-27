@@ -8,7 +8,7 @@ header:
 ---
 
 * Estimates of molecular convergence reveal multiple genes with adaptive variation across teleost fish.  
-**A Barua** (CA and PI), M Srivastava, B Beinsteiner, V Laudet, M Robinson-Rechavi. 
+**A Barua** (CA and PI), M Srivastava, B Beinsteiner, V Laudet, M Robinson-Rechavi.  
 *Molecular Biology and Evolution, Volume 43, Issue 1, January 2026).*[link][conv]
 
 * The genetic basis for adaptation in giant sea anemones to their symbiosis with anemonefish and Symbiodiniaceae.  
